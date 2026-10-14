@@ -1,0 +1,5 @@
+instagram_chrome_profile/
+__pycache__/
+*.pyc
+debug_instagram.png
+debug_note_composer.png
