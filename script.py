@@ -26,6 +26,22 @@ WORDS = [
     "I am a dog?",
     "doggy?",
     "bleh?",
+    "hooman",
+    "pawfect",
+    "fren",
+    "derp",
+    "sploot",
+    "paw",
+    "heck",
+    "boop",
+    "snoot",
+    "mlem",
+    "stinky",
+    "wiggle",
+    "bonk",
+    "cuddle",
+    "henlo"
+
 ]
 
 BASE_DIR = Path(__file__).parent
